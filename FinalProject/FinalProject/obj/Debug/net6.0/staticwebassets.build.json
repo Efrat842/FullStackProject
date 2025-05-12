@@ -1,0 +1,1464 @@
+{
+  "Version": 1,
+  "Hash": "+XmxuoPEXijntcv9b2ECriK1jvCtTeespniUDjmYXZo=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic1.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "st10kz4sv3",
+      "Integrity": "wLZkWCvWetmEf2Y92natK1Rr+ZlDWpCgCk2jIq9f76M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic1.png"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic10.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cn7yyx4ge8",
+      "Integrity": "OCGN9PQ1BpJqlCVqfWG5U/BNPxwg44q+vdOEf9Lhw+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic11.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic11#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xutulm045d",
+      "Integrity": "qT8sdl3voWQ2q68opkoxDB0UX8tpQPBVjIye8VHF13M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic11.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic12.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kptookanp9",
+      "Integrity": "mAtXX+NdMk+rv856+qnGh3NwB0bMUjd0OTgUFQjcYXU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic13.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic13#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9pczu79uk1",
+      "Integrity": "82oQPrc3oKHyYBhzJ+Zmldgg9M+94OBhvUgw7RuXb2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic14.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kngeso096w",
+      "Integrity": "MHhSq1KEeAfmUDzAaoEdnuT2lGlUYEnxDU6bZAwxFg8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic14.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "almjb1pymn",
+      "Integrity": "4mfOev7zG4/mg6h7x42vVBYU7dBDYOy6nhKQwzHmuFc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic3.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zys809614b",
+      "Integrity": "q6jep/ZTSNRoh0bbO9c+gxS+TmZzbEyDHyW+u556D9E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic4.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gws16zoic",
+      "Integrity": "vMOaa+c/4UjQDrISJ14d5cKGrl0ToIHJ2Cxi4wWhqbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic5.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "60o1g99p0m",
+      "Integrity": "xtN+1adFmtQb9uTT2NdtJkBrOYmZw6WwJ4FrDisQXEw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic6.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ls9l1uidfz",
+      "Integrity": "1V1r7HQPsQsEkrEPylV+Ndz5nZSrVwlI+hFqF12H6S0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic7.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zzo88xmh4b",
+      "Integrity": "j/yv3ZJrX2YecVtSWGsKEFMChZu95DuG65NBE+dhA9Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic8.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2rvy8z80u3",
+      "Integrity": "Psk8AtNu4Fhtk3vS2yXDdNs5MAt5dBwEaw2GYlMFl4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic9.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "pic9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqeffpzksr",
+      "Integrity": "m2TWIliPsGHPGFinqanydsrx9XK/teMIWXJJdAh6iLY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic9.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "pic1.png",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wLZkWCvWetmEf2Y92natK1Rr+ZlDWpCgCk2jIq9f76M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wLZkWCvWetmEf2Y92natK1Rr+ZlDWpCgCk2jIq9f76M="
+        }
+      ]
+    },
+    {
+      "Route": "pic1.st10kz4sv3.png",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1195604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wLZkWCvWetmEf2Y92natK1Rr+ZlDWpCgCk2jIq9f76M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "st10kz4sv3"
+        },
+        {
+          "Name": "label",
+          "Value": "pic1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wLZkWCvWetmEf2Y92natK1Rr+ZlDWpCgCk2jIq9f76M="
+        }
+      ]
+    },
+    {
+      "Route": "pic10.cn7yyx4ge8.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OCGN9PQ1BpJqlCVqfWG5U/BNPxwg44q+vdOEf9Lhw+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cn7yyx4ge8"
+        },
+        {
+          "Name": "label",
+          "Value": "pic10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OCGN9PQ1BpJqlCVqfWG5U/BNPxwg44q+vdOEf9Lhw+s="
+        }
+      ]
+    },
+    {
+      "Route": "pic10.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OCGN9PQ1BpJqlCVqfWG5U/BNPxwg44q+vdOEf9Lhw+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OCGN9PQ1BpJqlCVqfWG5U/BNPxwg44q+vdOEf9Lhw+s="
+        }
+      ]
+    },
+    {
+      "Route": "pic11.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qT8sdl3voWQ2q68opkoxDB0UX8tpQPBVjIye8VHF13M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qT8sdl3voWQ2q68opkoxDB0UX8tpQPBVjIye8VHF13M="
+        }
+      ]
+    },
+    {
+      "Route": "pic11.xutulm045d.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284541"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qT8sdl3voWQ2q68opkoxDB0UX8tpQPBVjIye8VHF13M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xutulm045d"
+        },
+        {
+          "Name": "label",
+          "Value": "pic11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qT8sdl3voWQ2q68opkoxDB0UX8tpQPBVjIye8VHF13M="
+        }
+      ]
+    },
+    {
+      "Route": "pic12.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mAtXX+NdMk+rv856+qnGh3NwB0bMUjd0OTgUFQjcYXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mAtXX+NdMk+rv856+qnGh3NwB0bMUjd0OTgUFQjcYXU="
+        }
+      ]
+    },
+    {
+      "Route": "pic12.kptookanp9.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mAtXX+NdMk+rv856+qnGh3NwB0bMUjd0OTgUFQjcYXU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kptookanp9"
+        },
+        {
+          "Name": "label",
+          "Value": "pic12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mAtXX+NdMk+rv856+qnGh3NwB0bMUjd0OTgUFQjcYXU="
+        }
+      ]
+    },
+    {
+      "Route": "pic13.9pczu79uk1.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82oQPrc3oKHyYBhzJ+Zmldgg9M+94OBhvUgw7RuXb2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9pczu79uk1"
+        },
+        {
+          "Name": "label",
+          "Value": "pic13.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-82oQPrc3oKHyYBhzJ+Zmldgg9M+94OBhvUgw7RuXb2I="
+        }
+      ]
+    },
+    {
+      "Route": "pic13.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82oQPrc3oKHyYBhzJ+Zmldgg9M+94OBhvUgw7RuXb2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-82oQPrc3oKHyYBhzJ+Zmldgg9M+94OBhvUgw7RuXb2I="
+        }
+      ]
+    },
+    {
+      "Route": "pic14.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MHhSq1KEeAfmUDzAaoEdnuT2lGlUYEnxDU6bZAwxFg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MHhSq1KEeAfmUDzAaoEdnuT2lGlUYEnxDU6bZAwxFg8="
+        }
+      ]
+    },
+    {
+      "Route": "pic14.kngeso096w.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MHhSq1KEeAfmUDzAaoEdnuT2lGlUYEnxDU6bZAwxFg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:08:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kngeso096w"
+        },
+        {
+          "Name": "label",
+          "Value": "pic14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MHhSq1KEeAfmUDzAaoEdnuT2lGlUYEnxDU6bZAwxFg8="
+        }
+      ]
+    },
+    {
+      "Route": "pic2.almjb1pymn.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mfOev7zG4/mg6h7x42vVBYU7dBDYOy6nhKQwzHmuFc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "almjb1pymn"
+        },
+        {
+          "Name": "label",
+          "Value": "pic2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mfOev7zG4/mg6h7x42vVBYU7dBDYOy6nhKQwzHmuFc="
+        }
+      ]
+    },
+    {
+      "Route": "pic2.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89055"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mfOev7zG4/mg6h7x42vVBYU7dBDYOy6nhKQwzHmuFc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mfOev7zG4/mg6h7x42vVBYU7dBDYOy6nhKQwzHmuFc="
+        }
+      ]
+    },
+    {
+      "Route": "pic3.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "243146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q6jep/ZTSNRoh0bbO9c+gxS+TmZzbEyDHyW+u556D9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q6jep/ZTSNRoh0bbO9c+gxS+TmZzbEyDHyW+u556D9E="
+        }
+      ]
+    },
+    {
+      "Route": "pic3.zys809614b.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "243146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q6jep/ZTSNRoh0bbO9c+gxS+TmZzbEyDHyW+u556D9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zys809614b"
+        },
+        {
+          "Name": "label",
+          "Value": "pic3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q6jep/ZTSNRoh0bbO9c+gxS+TmZzbEyDHyW+u556D9E="
+        }
+      ]
+    },
+    {
+      "Route": "pic4.4gws16zoic.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMOaa+c/4UjQDrISJ14d5cKGrl0ToIHJ2Cxi4wWhqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gws16zoic"
+        },
+        {
+          "Name": "label",
+          "Value": "pic4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMOaa+c/4UjQDrISJ14d5cKGrl0ToIHJ2Cxi4wWhqbc="
+        }
+      ]
+    },
+    {
+      "Route": "pic4.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMOaa+c/4UjQDrISJ14d5cKGrl0ToIHJ2Cxi4wWhqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMOaa+c/4UjQDrISJ14d5cKGrl0ToIHJ2Cxi4wWhqbc="
+        }
+      ]
+    },
+    {
+      "Route": "pic5.60o1g99p0m.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xtN+1adFmtQb9uTT2NdtJkBrOYmZw6WwJ4FrDisQXEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "60o1g99p0m"
+        },
+        {
+          "Name": "label",
+          "Value": "pic5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xtN+1adFmtQb9uTT2NdtJkBrOYmZw6WwJ4FrDisQXEw="
+        }
+      ]
+    },
+    {
+      "Route": "pic5.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "501944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xtN+1adFmtQb9uTT2NdtJkBrOYmZw6WwJ4FrDisQXEw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xtN+1adFmtQb9uTT2NdtJkBrOYmZw6WwJ4FrDisQXEw="
+        }
+      ]
+    },
+    {
+      "Route": "pic6.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1V1r7HQPsQsEkrEPylV+Ndz5nZSrVwlI+hFqF12H6S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1V1r7HQPsQsEkrEPylV+Ndz5nZSrVwlI+hFqF12H6S0="
+        }
+      ]
+    },
+    {
+      "Route": "pic6.ls9l1uidfz.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1V1r7HQPsQsEkrEPylV+Ndz5nZSrVwlI+hFqF12H6S0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 13:22:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ls9l1uidfz"
+        },
+        {
+          "Name": "label",
+          "Value": "pic6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1V1r7HQPsQsEkrEPylV+Ndz5nZSrVwlI+hFqF12H6S0="
+        }
+      ]
+    },
+    {
+      "Route": "pic7.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/yv3ZJrX2YecVtSWGsKEFMChZu95DuG65NBE+dhA9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 16:58:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/yv3ZJrX2YecVtSWGsKEFMChZu95DuG65NBE+dhA9Q="
+        }
+      ]
+    },
+    {
+      "Route": "pic7.zzo88xmh4b.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j/yv3ZJrX2YecVtSWGsKEFMChZu95DuG65NBE+dhA9Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 16:58:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zzo88xmh4b"
+        },
+        {
+          "Name": "label",
+          "Value": "pic7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j/yv3ZJrX2YecVtSWGsKEFMChZu95DuG65NBE+dhA9Q="
+        }
+      ]
+    },
+    {
+      "Route": "pic8.2rvy8z80u3.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Psk8AtNu4Fhtk3vS2yXDdNs5MAt5dBwEaw2GYlMFl4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:05:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2rvy8z80u3"
+        },
+        {
+          "Name": "label",
+          "Value": "pic8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Psk8AtNu4Fhtk3vS2yXDdNs5MAt5dBwEaw2GYlMFl4w="
+        }
+      ]
+    },
+    {
+      "Route": "pic8.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Psk8AtNu4Fhtk3vS2yXDdNs5MAt5dBwEaw2GYlMFl4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:05:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Psk8AtNu4Fhtk3vS2yXDdNs5MAt5dBwEaw2GYlMFl4w="
+        }
+      ]
+    },
+    {
+      "Route": "pic9.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m2TWIliPsGHPGFinqanydsrx9XK/teMIWXJJdAh6iLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m2TWIliPsGHPGFinqanydsrx9XK/teMIWXJJdAh6iLY="
+        }
+      ]
+    },
+    {
+      "Route": "pic9.tqeffpzksr.jpg",
+      "AssetFile": "C:\\Users\\משתמש\\Documents\\תכנות שנה ב תשפה\\פרויקט חנוכה שלי\\FinalProject\\FinalProject\\wwwroot\\pic9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m2TWIliPsGHPGFinqanydsrx9XK/teMIWXJJdAh6iLY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Dec 2024 17:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqeffpzksr"
+        },
+        {
+          "Name": "label",
+          "Value": "pic9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m2TWIliPsGHPGFinqanydsrx9XK/teMIWXJJdAh6iLY="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט סופי\FinalProject\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\ref\DAL.dll
