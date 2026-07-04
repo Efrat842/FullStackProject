@@ -26,3 +26,4 @@ C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנו�
 C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\DAL\obj\Debug\net6.0\DAL.sourcelink.json

@@ -150,3 +150,4 @@ C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנו�
 C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\משתמש\Documents\תכנות שנה ב תשפה\פרויקט חנוכה שלי\FinalProject\FinalProject\obj\Debug\net6.0\API.sourcelink.json
